@@ -87,6 +87,11 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 其它,#genre#
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+青田新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+亲亲20音乐,http://61.221.215.25:8800/hls/49/index.m3u8
+CGTN Espanol 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
+HKS, https://ott-iptv.top/shanxi/hks.php
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 天映经典,http://13457610200.8866.org:2018/live/天映频道HD/index.m3u8
